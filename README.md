@@ -47,6 +47,11 @@ Ce projet a pour but de valider les compétences liées à :
 - Déploiement : Render (back), Vercel (front)
 
 ---
+🧩 Conception
+Ce diagramme met en évidence les interactions entre les utilisateurs (Client, Admin) et les principales fonctionnalités de l’application :
+
+💡 Le fichier source au format .drawio est disponible dans le dossier /assets/design/UML.png
+
 
 ## 📁 Arborescence prévue
 
