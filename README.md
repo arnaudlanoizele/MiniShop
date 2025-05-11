@@ -47,12 +47,16 @@ Ce projet a pour but de valider les compétences liées à :
 - Déploiement : Render (back), Vercel (front)
 
 ---
-🧩 Conception
+1: 🧩 Conception – Diagramme de cas d’utilisation UML
 Ce diagramme met en évidence les interactions entre les utilisateurs (Client, Admin) et les principales fonctionnalités de l’application :
 
 💡 Le fichier source au format .drawio est disponible dans le dossier /assets/design/UML.png
+![Langage de Modélisation Unifié](./design/UML.png)
+2: 🗃️ Modèle conceptuel de données (MCD)
+Le Modèle Conceptuel de Données (MCD) permet de représenter les entités principales de l’application MiniShop, ainsi que les relations logiques entre ces entités, sans tenir compte de contraintes techniques ou de syntaxe de base de données.
+![Modèle Conceptuel de Données](./design/MCD.png)
 
-
+💡 Le fichier source au format .drawio est disponible dans le dossier /assets/design/MCD.png
 ## 📁 Arborescence prévue
 
 /mini-shop
