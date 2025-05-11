@@ -1,9 +1,13 @@
 const express = require('express');
+const cors = require("cors");
 const app = express();
 const PORT = process.env.PORT || 5000;
 
 // Middleware pour parser le JSON
 app.use(express.json());
+
+// Middleware pour autoriser les requêtes CORS
+app.use(cors());
 
 // Importer Les routes produits
 const productRoutes = require("./routes/productRoutes");
