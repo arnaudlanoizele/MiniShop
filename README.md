@@ -57,7 +57,7 @@ Ce diagramme met en évidence les interactions entre les utilisateurs (Client, A
 Le Modèle Conceptuel de Données (MCD) permet de représenter les entités principales de l’application MiniShop, ainsi que les relations logiques entre ces entités, sans tenir compte de contraintes techniques ou de syntaxe de base de données.
 
 💡 Le fichier source au format .drawio est disponible dans le dossier /assets/design/MCD.png
-![Modèle Conceptuel de Données](./design/MCD.png)
+![Diagramme MCD](https://github.com/arnaudlanoizele/MiniShop/main/assets/design/MCD.png)
 
 ---
 ## 📁 Arborescence prévue
